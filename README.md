@@ -12,6 +12,6 @@ BBWBWBWWBWBB = 'A'
 # Language
 Verilog
 
-# Implementation
+# Design Diagram
 
 ![alt text](https://github.com/lejrn/Barcode39-Scanner/blob/main/23082020v1.3.jpg?raw=true)
