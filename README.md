@@ -13,5 +13,6 @@ BBWBWBWWBWBB = 'A'
 Verilog
 
 # Design Diagram
-
+First design as described here:
+(Note: final design was slightly different)
 ![alt text](https://github.com/lejrn/Barcode39-Scanner/blob/main/23082020v1.3.jpg?raw=true)
