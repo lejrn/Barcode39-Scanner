@@ -22,4 +22,4 @@ First design as described here:
 ![alt text](https://github.com/lejrn/Barcode39-Scanner/blob/main/23082020v1.3.jpg?raw=true)
 
 # Special Thanks
-Big thanks to my colleage, Gal Eshel, who teamed up with me for this project. Never could have I asked for a better companion to work with and learn from. Also, we're fun in weddings.
+Big thanks to my colleague and friend, Gal Eshel, who teamed up with me for this project. Never could have I asked for a better companion to work with and learn from. Also, we're fun in weddings.
